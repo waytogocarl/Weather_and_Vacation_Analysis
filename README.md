@@ -4,6 +4,6 @@ In this project, I developed some Python scripts to visualize weather patterns a
 
 Conducted linear regression analysis to explore relationships between weather variables and latitude.
 
-This kind of work would be useful to provide to people looking to use up their PTO, they can use the analysis to see whether the place they wish to travel to will have good weather, and also what hotels would be available.
+This kind of work would be useful to provide to people looking to use up their PTO, they can use the analysis to see whether the place they wish to travel will have good weather, and also what hotels they could potentially stay at in the area.
 
 My core responsibilities in this analysis were data collection, visualization creation, and statistical analysis using Jupyter Notebook, Pandas, and geoViews.
